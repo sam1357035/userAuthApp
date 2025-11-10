@@ -66,3 +66,15 @@ This is one way to run your app — you can also build it directly from Android 
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
+# Features and testing
+The app consists of 3 main screens: Login, Sign Up, and Home.
+![Alt text](./assets/login.png)
+![Alt text](./assets/signup.png)
+![Alt text](./assets/home.png)
+
+The default credentials below are hardcoded and can be used to test the login functionality of the app:
+```
+email: john.smith@gmail.com
+password: password
+```
+You can also sign up with new credentials and use those.
