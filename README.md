@@ -68,9 +68,9 @@ If you're having issues getting the above steps to work, see the [Troubleshootin
 
 # Features and testing
 The app consists of 3 main screens: Login, Sign Up, and Home.
-![Alt text](./assets/login.png)
-![Alt text](./assets/signup.png)
-![Alt text](./assets/home.png)
+<img src="./assets/login.png" alt="Login Screen" width="200"/>
+<img src="./assets/signup.png" alt="Sign Up Screen" width="200"/>
+<img src="./assets/home.png" alt="Home Screen" width="200"/>
 
 The default credentials below are hardcoded and can be used to test the login functionality of the app:
 ```
